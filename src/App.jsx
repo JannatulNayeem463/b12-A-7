@@ -24,7 +24,7 @@ function App() {
 
   const bannerPromies = fetchBanner()
   const cardPromies = fetchCard()
-
+/*-----*/
   
   const [cardData, setCardData] = useState([])
   const [taskStatusCards, setTaskStatusCards] = useState([])
