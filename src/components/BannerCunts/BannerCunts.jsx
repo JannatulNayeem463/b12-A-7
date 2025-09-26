@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from 'react';
+
+
 const BannerCunts = ({ bannerPromies , inProgressCount , resolvedCount }) => {
   const [bannerData, setBannerData] = useState([]);
  
-
+/*---*/
   useEffect(() => {
     bannerPromies.then(data => {
       setBannerData(data);
