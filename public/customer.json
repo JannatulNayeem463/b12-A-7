@@ -1,0 +1,102 @@
+[
+    {
+      
+      "title": "Login Issues - Can't Access Account.",
+      "button": "Open",
+      "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+      "id": "#0001",
+      "priority": "HIGH PRIORITY",
+      "status": "John Smith",
+      "date": "2024-09-25"
+    },
+    {
+      
+      "title": "Payment Failed - Card Declined",
+      "button": "Open",
+      "description": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+      "id": "#0002",
+      "priority": "MEDIUM PRIORITY",
+      "status": "Sarah Johnson",
+      "date": "2024-09-24"
+    },
+    {
+     
+      "title": "Feature Request: Dark Mode",
+      "button": "Open",
+      "description": "Customer requested a new feature to add a dark mode option to the application's user interface.",
+      "id": "#0003",
+      "priority": "HIGH PRIORITY",
+      "status": "Emily Davis",
+      "date": "2024-09-23"
+    },
+    {
+      
+      "title": "Unable to Download Invoice",
+      "button": "In- Progress",
+      "description": "A user's account was mistakenly suspended, and they are seeking clarification and reinstatement.",
+      "id": "#0004",
+      "priority": "MEDIUM PRIORITY",
+      "status": "Michael Brown",
+      "date": "2024-09-22"
+    },
+    {
+      
+      "title": "General Inquiry About Service Plan",
+      "button": "Opon",
+      "description": "A potential customer has questions about the pricing and features of different service plans.",
+      "id": "#0005",
+      "priority": "LOW PRIORITY",
+      "status": "Emily Davis",
+      "date": "2024-09-21"
+    },
+    {
+      
+      "title": "Data Sync Failure",
+      "button": "In- Progress",
+      "description": "Several users reported that their data is not syncing correctly between the desktop and mobile apps.",
+      "id": "#0006",
+      "priority": "HIGH PRIORITY",
+      "status": "In Progress",
+      "date": "2024-09-20"
+    },
+    {
+      
+      "title": "In-app Notification Issue",
+      "button": "Open",
+      "description": "Notifications are not being displayed for a specific group of users. Requires investigation.",
+      "id": "#0007",
+      "priority": "MEDIUM PRIORITY",
+      "status": "Michael Brown",
+      "date": "2024-09-19"
+    },
+    {
+      
+      "title": "Website Performance Slowdown",
+      "button": "Open",
+      "description": "Users are experiencing slow loading times on the main dashboard, especially during peak hours.",
+      "id": "#0008",
+      "priority": "HIGH PRIORITY",
+      "status": "Escalate",
+      "date": "2024-09-18"
+    },
+    {
+      
+      "title": "Customization Request",
+      "button": "In- Progress",
+      "description": "Customer wants to know if they can customize the email templates for their automated notifications.",
+      "id": "#0009",
+      "priority": "LOW PRIORITY",
+      "status": "John Smith",
+      "date": "2024-09-17"
+    },
+    {
+      
+      "title": "Missing Invoice Inquiry",
+      "button": "Open",
+      "description": "Customer is missing their last month's invoice and requires it to be resent to their registered email address.",
+      "id": "#0010",
+      "priority": "LOW PRIORITY",
+      "status": "Resolved",
+      "date": "2024-09-16"
+    }
+  ]
